@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: rgb(0, 0, 0) !important;
+}
+
+.equilizerimg {
+  position: absolute !important;
+  top: 0px;
+  z-index: -1;
+  width: fit-content;
+}
+
+.cardele {
+  width: 25px !important;
+  height: 250px !important;
+  margin-left: 20px;
+}
+
+.cardcontainer {
+  margin: 600px 30px 200px 30px;
+}
+
+.asdf {
+  width: 180px !important;
+}
+
+.ui.modal {
+  margin: 0 auto;
+  min-width: 76px;
+  max-width: 500px;
+}
+
+header2 {
+  font-size: 40px;
+  font-weight: 500;
+  margin-bottom: 500px;
+  background: linear-gradient(to right, #ffffff, #a57373);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
