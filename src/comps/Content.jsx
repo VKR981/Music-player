@@ -117,7 +117,7 @@ class Content extends Component {
         >
           <ReactWebMediaPlayer
             title={this.state.title}
-            audio="chill day.mp3"
+            audio="https://raw.githubusercontent.com/VKR981/Music-player/master/build/Chill%20Day.mp3"
             thumbnail={this.state.albumurl}
           />
         </Modal>
