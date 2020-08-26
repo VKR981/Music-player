@@ -12,6 +12,12 @@ function Mainpage() {
       <MainHeader />
       <Content />
       <Keenslider />
+      <div className="musicsource">
+        <h3>Music :</h3>
+        <a href="https://www.youtube.com/watch?v=3HjG1Y4QpVA">
+          LAKEY INSPIRED - Chill Day
+        </a>
+      </div>
     </div>
   );
 }

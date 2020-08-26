@@ -20,7 +20,7 @@ body {
 }
 
 .cardcontainer {
-  margin: 600px 30px 200px 30px;
+  margin: 600px 30px 100px 30px;
 }
 
 .asdf {
@@ -29,8 +29,10 @@ body {
 
 .ui.modal {
   margin: 0 auto;
-  min-width: 76px;
+  min-width: auto;
   max-width: 500px;
+  color: #a57373 !important;
+  background-color: transparent !important;
 }
 
 header2 {
@@ -40,4 +42,10 @@ header2 {
   background: linear-gradient(to right, #ffffff, #a57373);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+.musicsource {
+  margin: 0px 0px 50px 50px;
+  text-align: left !important;
+  color: #ffffff;
 }
